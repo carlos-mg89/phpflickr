@@ -19,8 +19,8 @@
 		"ext-json": "*",
 		"ext-libxml": "*",
 		"ext-simplexml": "*",
-		"lusitanian/oauth": "dev-master#ee5a83310c6014b6cc07ac0610ec9d67ba452664 as 0.8.12",
-		"psr/cache": "^3.0"
+		"psr/cache": "^3.0",
+		"carlos-mg89/oauth": "^0.8.14"
 	},
 	"require-dev": {
 		"squizlabs/php_codesniffer": "^3.0",
