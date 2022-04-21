@@ -7,7 +7,7 @@ jobs:
 
     strategy:
       matrix:
-        os: [ ubuntu-latest, macos-latest, windows-latest ]
+        os: ubuntu-latest
         # All supported PHP versions https://www.php.net/supported-versions.php
         php: [ '8.0' ]
 
